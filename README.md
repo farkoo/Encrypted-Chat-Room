@@ -7,3 +7,12 @@ In this program we want to create an unlimited chatroom based on tcp/ip between 
 
 In this program, the exchanged messages are encrypted using the monoalphabetic method and are decrypted and displayed on the other side.
 
+### Execute server
+```python
+python _server.py
+```
+
+### Execute client in other instance
+```python
+python _client.py
+```
