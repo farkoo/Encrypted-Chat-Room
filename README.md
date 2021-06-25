@@ -12,7 +12,25 @@ In this program, the exchanged messages are encrypted using the monoalphabetic m
 python _server.py
 ```
 
-### Execute client in other instance
+### Execute client in the other instance
 ```python
 python _client.py
 ```
+
+
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/farkoo/Encrypted-Chat-Room/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
